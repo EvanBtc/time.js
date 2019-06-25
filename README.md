@@ -19,5 +19,5 @@ or
 
 ## Creator
 
-Created by [Evan Bitic](www.evan-bitic.fr).
+Created by [Evan Bitic](http://www.evan-bitic.fr).
 
