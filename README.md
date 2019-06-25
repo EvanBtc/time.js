@@ -1,4 +1,4 @@
-# time.js
+# time.js - Evan Bitic
 
 Animated time clock, in your html add:
 
