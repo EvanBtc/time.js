@@ -1,6 +1,13 @@
 # time.js
 
 Animated time clock, in your html add:
+
+Header:
+````
+<script type="text/javascript" src="js/name.js"></script>
+````
+
+Body:
 ````
 <p id="time"></p>
 ````
