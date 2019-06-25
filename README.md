@@ -17,3 +17,7 @@ or
 `````
 #### Have a nice day :)
 
+## Creator
+
+Created by [Evan Bitic](www.evan-bitic.fr).
+
