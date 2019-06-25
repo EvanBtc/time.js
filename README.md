@@ -4,7 +4,7 @@ Animated time clock, in your html add:
 
 Header:
 ````
-<script type="text/javascript" src="js/name.js"></script>
+<script type="text/javascript" src="js/time.js"></script>
 ````
 
 Body:
